@@ -7,7 +7,9 @@ authors = [
     { name = "Angel Nicolas Landa Tapia", email = "a01668133@tec.mx" }
 ]
 requires-python = ">=3.13"
-dependencies = []
+dependencies = [
+    "ipykernel>=7.4.0",
+]
 
 [project.scripts]
 bio-inspired-final-project = "bio_inspired_final_project:main"

@@ -46,7 +46,7 @@ Baseline configuration: 20 individuals, 20 generations, `p = 0.25`, seed 42. The
 
 | File | Description |
 |------|-------------|
-| [`planta_fisica_minimum_solution.ipynb`](planta_fisica_minimum_solution.ipynb) | The supplied baseline GA: evaluator, operators, the 0.25 vs 0.50 mutation comparison, a convergence plot and reproducibility checks. Also includes our check of the hand calculations. |
+| [`planta_fisica_minimum_solution.ipynb`](planta_fisica_minimum_solution.ipynb) | The supplied baseline GA: evaluator, operators, the 0.25 vs 0.50 mutation comparison, a convergence plot and reproducibility checks. Also includes our explanation of one generation, our interpretation of the comparison, an exhaustive check of all 5,103 plans, the model limitations and our check of the hand calculations. |
 | [`Planta_Física_Challenge_DEL_1.ipynb`](Planta_Física_Challenge_DEL_1.ipynb) | Our Research deliverable: A1 (formulation and assumptions) and A2 (hand calculation of `(6,6,6,6)` and `(8,8,6,8)`, compared against the evaluator). |
 | `pyproject.toml`, `uv.lock` | Project dependencies, managed with [uv](https://docs.astral.sh/uv/). |
 

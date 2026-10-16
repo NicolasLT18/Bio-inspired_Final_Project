@@ -4,8 +4,8 @@ version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
 authors = [
-    { name = "Angel Nicolas Landa Tapia", email = "A01668133@tec.mx" }
-    { name = "Luis Fernando Salas López", email = "A01770922@tec.mx" }
+    { name = "Angel Nicolas Landa Tapia", email = "A01668133@tec.mx" },
+    { name = "Luis Fernando Salas López", email = "A01770922@tec.mx" },
     { name = "Claudio Ahuatzi Quintana", email = "A01661936@tec.mx" }
 ]
 requires-python = ">=3.13"
